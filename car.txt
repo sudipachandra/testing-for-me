@@ -1,0 +1,5 @@
+public class car{
+static int =0;
+public static void main(String arg[]){
+system.out.prinln("car is gold");
+}
