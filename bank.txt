@@ -1,4 +1,6 @@
 public class Bank{
-public void deposit(){}
+public void deposit(){
+system.out.println("sudipa");
+}
 public void check(){}
 }
