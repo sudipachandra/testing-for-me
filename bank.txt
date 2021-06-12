@@ -1,0 +1,4 @@
+public class Bank{
+public void deposit(){}
+public void check(){}
+}
